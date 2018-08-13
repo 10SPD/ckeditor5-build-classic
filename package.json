@@ -1,5 +1,5 @@
 {
-  "name": "@ckeditor/ckeditor5-build-trifork",
+  "name": "ckeditor5-build-trifork",
   "version": "11.0.1",
   "description": "Trifork Example CKEditor Custom Build",
   "keywords": [
