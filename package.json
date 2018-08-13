@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
+  "name": "@ckeditor/ckeditor5-build-trifork",
   "version": "11.0.1",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "description": "Trifork Example CKEditor Custom Build",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -56,10 +56,10 @@
   "author": "CKSource (http://cksource.com/)",
   "license": "GPL-2.0-or-later",
   "homepage": "https://ckeditor.com",
-  "bugs": "https://github.com/ckeditor/ckeditor5-build-classic/issues",
+  "bugs": "https://github.com/10SPD/ckeditor5-build-classic/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/10SPD/ckeditor5-build-classic"
   },
   "scripts": {
     "build": "webpack --mode production",
